@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ToshifumiIde/typescript-first-study/issues"
   },
-  "homepage": "https://github.com/ToshifumiIde/typescript-first-study#readme"
+  "homepage": "https://github.com/ToshifumiIde/typescript-first-study#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
